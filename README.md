@@ -83,7 +83,9 @@ The NATO strap was created in the early 1970s by the British Ministry of Defence
 <hr>
                <center>
 <H1>FOLLOW US ON:</H1>
+                 
                <img src="img/cab4.jpg"width="300"> <br>
+               
                <table>
                 <tr>
              <tr> <a href="https://www.instagram.com/cabi_watches?igsh=MXNkdmFnOGpveTN1Yg==">INSTAGRAM </a> </tr> 
